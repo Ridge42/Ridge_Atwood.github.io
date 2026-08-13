@@ -1,70 +1,78 @@
-# Student Portfolio Template
+# Data Science Portfolio
 
-This repository provides a simple template for creating a personal data science portfolio website using [Quarto](https://quarto.org/) and [GitHub Pages](https://pages.github.com/). Students will use this template to showcase their projects and learning journey.
+Personal data science portfolio showcasing projects in **data analysis, statistics, machine learning, and business analytics**.
 
-## 🚀 Getting Started
+The portfolio focuses on using data to solve real-world problems, with an emphasis on translating analysis and predictive models into actionable business insights.
 
-### Prerequisites
-- [Quarto](https://quarto.org/docs/get-started/) installed
-- A GitHub account
-- Basic knowledge of Markdown
+## About
 
-### Quick Setup
+I'm a Statistics student specializing in Data Science, interested in using data and machine learning to solve business problems.
 
-1. **Create your repository**
-   - Use this template to create your own repository
-   - Name it `your-username.github.io` or any name you prefer
-   - Make sure it's **Public**
+This portfolio highlights projects where I take problems through the full data science process:
 
-2. **Customize your site**
-   - Replace "Your Name" with your actual name in all files
-   - Update your GitHub and LinkedIn links in `_quarto.yml` if you want them.
-   - Edit the About Me page with your information
+**Business Problem → Data → Analysis → Modeling → Insights → Recommendations**
 
-3. **Deploy to GitHub Pages**
-   - Run `quarto render` to build your site and `quarto preview` to check it locally
-   - Commit and push your changes
-   - Enable GitHub Pages: Settings → Pages → Source: Deploy from a branch → Branch: main → Folder: /docs
+## Featured Projects
 
-## 📁 What's Included
+### Medline — Predicting Competitor Backorders
 
-```
-├── _quarto.yml          # Site configuration
-├── index.md             # Your homepage
-├── about.md             # About me page
-├── projects/            # Your project files
-│   ├── eda.qmd          # Data exploration template
-│   ├── data-acquisition.qmd  # Data collection template
-│   └── final-project.qmd     # Final project template
-└── styles.css           # Custom styling
-```
+Investigated competitor product backorders to determine why and when they occur, whether they could be predicted, and how Medline could use those patterns to gain a competitive advantage.
 
-## 🛠️ Customization
+- Performed exploratory data analysis and event studies
+- Engineered lagged inventory, sales, and fulfillment features
+- Built XGBoost and Lasso logistic regression models
+- Achieved approximately **0.82 AUC** with the Lasso logistic regression model
+- Identified customer-level fulfillment problems as important early-warning signals
+- Translated model results into sales and supply-chain recommendations
 
-### Change the Look
-- Edit `styles.css` to change colors and fonts
-- Modify `_quarto.yml` to change the theme
-- Add your own logo or images
+### Additional Projects
 
-### Add Extra Projects
-1. Copy files to `projects/`
-2. Add it to the navigation in `_quarto.yml`
+More data science, machine learning, and statistical projects are available throughout the portfolio.
 
-## 🆘 Need Help?
+## Skills
 
-### Common Issues
-- **Site not building**: Make sure all file extensions are correct (.qmd for code, .md for text only)
-- **GitHub Pages not updating**: Check that Pages is enabled and pointing to /docs folder
-- **Code not running**: Ensure you have Python and required packages installed
+### Programming & Data
 
-### Resources
-- [Quarto Documentation](https://https://quarto.org/docs/guide/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub Pages Help](https://docs.github.com/en/pages)
+- Python
+- R
+- SQL
+- pandas
+- NumPy
 
----
+### Machine Learning
 
-**Ready to start building your data science portfolio? 🎉**
+- scikit-learn
+- XGBoost
+- PyTorch
+- Statistical modeling
+- Classification
+- Feature engineering
+- Model evaluation
 
-*This template is designed to be simple enough for beginners while still creating professional-looking results.*
+### Data Visualization
 
+- matplotlib
+- seaborn
+- TensorBoard
+
+### Other
+
+- Git & GitHub
+- Jupyter
+- Docker
+- Linux
+
+## Website
+
+Visit the portfolio:
+
+**[Portfolio Website](#)**
+
+## Repository Structure
+
+```text
+.
+├── index.html
+├── assets/
+├── projects/
+└── README.md
