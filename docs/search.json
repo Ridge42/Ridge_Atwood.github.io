@@ -142,9 +142,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Data Science Portfolio",
+    "title": "Ridge Atwood | Data Science Portfolio",
     "section": "",
-    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nThis project explored whether we can accurately predict if a user will like a movie by combining engineered recommendation features with learned representations from a Two Towers model. I implemented and compared logistic regression, KNN, and a neural network with user/movie embeddings, while designing a leakage-free validation pipeline and tuning models using F1 score evaluation.\nThe results showed that the neural network substantially outperformed the baseline methods (F1 = 0.897), demonstrating that learned embeddings and affinity representations capture meaningful nonlinear relationships in user preferences and significantly improve recommendation performance.\nCheck the github for the code and you can look at this page for a more detailed explanation of the project. Github Link\n\n\n\nFor this case competition, we were tasked to discover what districts in NY had the most rat complaints, most “actual” cases of rats, and factors that contributed to rats appearing in the districts. We were also tasked with coming up with ideas for solutions for the rat problems given our findings.\nWe made heat maps with areal data, made a linear regression and random forest model, and visualization tools to showcase our findings.\nHere is a link to the google slides we made for a quick look at our findings. Slides —\n\n\n\n\n\n\nI also have a blog page where I wrote a basic report about the difference between seaborn and matplotlib libraries Thanks for visiting! Feel free to explore my projects and see what I’m learning."
+    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science, with a particular interest in using statistics, machine learning, and technology to help organizations make better decisions.\nI’m currently completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026.\n\n\n\n\n\nRidge Atwood"
   },
   {
     "objectID": "index.html#about-this-portfolio",
@@ -166,5 +166,40 @@
     "title": "Welcome to My Data Science Portfolio",
     "section": "",
     "text": "This project explored whether we can accurately predict if a user will like a movie by combining engineered recommendation features with learned representations from a Two Towers model. I implemented and compared logistic regression, KNN, and a neural network with user/movie embeddings, while designing a leakage-free validation pipeline and tuning models using F1 score evaluation.\nThe results showed that the neural network substantially outperformed the baseline methods (F1 = 0.897), demonstrating that learned embeddings and affinity representations capture meaningful nonlinear relationships in user preferences and significantly improve recommendation performance.\nCheck the github for the code and you can look at this page for a more detailed explanation of the project. Github Link\n\n\n\nFor this case competition, we were tasked to discover what districts in NY had the most rat complaints, most “actual” cases of rats, and factors that contributed to rats appearing in the districts. We were also tasked with coming up with ideas for solutions for the rat problems given our findings.\nWe made heat maps with areal data, made a linear regression and random forest model, and visualization tools to showcase our findings.\nHere is a link to the google slides we made for a quick look at our findings. Slides —\n\n\n\n\n\n\nI also have a blog page where I wrote a basic report about the difference between seaborn and matplotlib libraries Thanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
+    "href": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "",
+    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science, with a particular interest in using statistics, machine learning, and technology to help organizations make better decisions.\nI’m currently completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n🎬 Movie Recommendation System\nBuilt a movie recommendation system to predict whether a user would like a movie. I compared traditional machine learning methods such as logistic regression and KNN with a neural network using user and movie embeddings.\nThe neural network achieved an F1 score of 0.897, substantially outperforming the baseline models.\nTools: Python · pandas · scikit-learn · PyTorch · Neural Networks\nView Project →\n\n\n\n🐀 New York Rat Case Competition\n2nd Place — Case Competition\nAnalyzed reported rat complaints in New York City to determine where rat problems were concentrated, what factors were associated with rat activity, and how the city could address the problem.\nOur team used geographic analysis, data visualization, linear regression, and random forest modeling to turn the data into actionable recommendations.\nView Project →\n\n\n\n📊 Medline Data Analysis\nAnalyzed Medline data using statistical and data science techniques to identify patterns and relationships within the data.\nThis project gave me experience working through the process of exploring, cleaning, analyzing, and communicating findings from a real dataset.\nView Project →\n\n\n\n🤖 Employee Scheduling Automation\nIn Progress\nExploring how AI agents could help businesses automate employee scheduling by considering employee availability, preferences, and business requirements.\nI’m approaching this project from a business-problem-first perspective: understanding the current scheduling process, identifying where businesses lose time or money, and determining whether AI can provide meaningful value.\nTools: Python · AI Agents · Optimization · Automation · APIs\nView Project →\n\n\n\n🔬 Neural Network & Information Theory Research\nAs a research assistant at BYU, I study machine learning, information theory, entropy, and neural networks.\nMy current research involves using information-theoretic methods to study representations learned by neural networks and investigate ways to improve how models distribute and use information.\nTools: Python · PyTorch · PCA · Information Theory\nView Project →"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming & Data Science\n\nPython\nR\nSQL\npandas\nNumPy\nscikit-learn\nPyTorch\nExcel\n\n\n\nMachine Learning & Statistics\n\nRegression\nClassification\nRandom Forests\nNeural Networks\nPCA\nFeature Engineering\nData Preprocessing\nStatistical Analysis\nInformation Theory\n\n\n\nTools & Workflow\n\nGit\nJupyter\nVS Code\nAPIs\nData Visualization\nQuarto"
+  },
+  {
+    "objectID": "index.html#personally-interested-in",
+    "href": "index.html#personally-interested-in",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Personally Interested In",
+    "text": "Personally Interested In\nI’m particularly interested in the intersection of data science, machine learning, and business.\nI’m interested in problems such as:\n\nUsing data to improve business decisions\nUnderstanding customer behavior\nFinding inefficiencies in business processes\nPredicting outcomes and identifying trends\nAutomating repetitive work\nBuilding AI systems that solve practical problems\nUsing statistics and machine learning to turn data into useful insights\n\nI’m especially interested in opportunities where I can work with real data and see how my analysis can have a measurable impact."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m currently interested in opportunities in data science, analytics, machine learning, and business-focused problem solving.\nEmail: atwoodridge@gmail.com\nLocation: Provo, Utah\nGitHub · LinkedIn"
   }
 ]
