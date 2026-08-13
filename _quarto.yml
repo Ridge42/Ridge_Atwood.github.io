@@ -10,18 +10,14 @@ website:
     background: primary
     left:
       - text: "Home"
-        href: about.md
-      - text: "Projects"
         href: index.md
-      - text: "Blog"
-        href: blog.qmd
-      - text: "Data Aquisition"
-        href: movie_blog.qmd
+      - text: "About Me"
+        href: about.md
     right:
       - icon: github
         href: https://github.com/Ridge42
       - icon: linkedin
-        href: https://linkedin.com/in/your-profile
+        href: https://www.linkedin.com/in/ridge-atwood
 
 format:
   html:

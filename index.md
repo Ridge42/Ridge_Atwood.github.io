@@ -41,17 +41,27 @@ Analyzed reported rat complaints in New York City to determine where rat problem
 
 Our team used geographic analysis, data visualization, linear regression, and random forest modeling to turn the data into actionable recommendations.
 
-[View Project →](https://docs.google.com/presentation/d/1tzXx27ziEVCkIKVPPFrrYlTtKYtOuI91d7MYrJ9xHPo/edit?slide=id.g3d3c87929d0_1_61)
+**Tools:** R · tidyverse · sf · leaflet · dbscan · glmnet · ggplot2
+
+[View Project →](https://github.com/Ridge42/rats_case_competition2026)
 
 ---
 
-### 📊 Medline Data Analysis
+## Medline Data Analysis
 
-Analyzed Medline data using statistical and data science techniques to identify patterns and relationships within the data.
+Developed a predictive analytics approach to identify **when competitor products were likely to go on backorder**, giving Medline an opportunity to proactively capture market share.
 
-This project gave me experience working through the process of exploring, cleaning, analyzing, and communicating findings from a real dataset.
+Using historical inventory, sales, fulfillment, and competitor backorder data, I combined **exploratory data analysis, event studies, statistical modeling, and machine learning** to identify early-warning signals of competitor supply disruptions.
 
-[View Project →](#)
+A **Lasso logistic regression model achieved an AUC of ~0.82**, with recent customer-level backorders and service-line fulfillment issues emerging as some of the strongest predictors of future competitor backorders.
+
+The analysis translated these findings into **actionable recommendations for Medline's sales and supply-chain teams**, including how to monitor early-warning signals and proactively position inventory and substitute products.
+
+This project gave me experience taking a **real business problem from raw data → predictive modeling → actionable business strategy**.
+
+[View Project →](https://github.com/Ridge42/Medline_Case_study)
+
+**Tools:** Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · XGBoost
 
 ---
 
@@ -65,8 +75,6 @@ I'm approaching this project from a business-problem-first perspective: understa
 
 **Tools:** Python · AI Agents · Optimization · Automation · APIs
 
-[View Project →](#)
-
 ---
 
 ### 🔬 Neural Network & Information Theory Research
@@ -77,7 +85,7 @@ My current research involves using information-theoretic methods to study repres
 
 **Tools:** Python · PyTorch · PCA · Information Theory
 
-[View Project →](#)
+[View Project →](https://github.com/TomKerbyLab/LocalCorex_Target_Dropout)
 
 ---
 
@@ -143,4 +151,4 @@ I'm currently interested in opportunities in **data science, analytics, machine 
 
 **Location:** Provo, Utah
 
-[GitHub](#) · [LinkedIn](www.linkedin.com/in/ridge-atwood)
+[GitHub](https://github.com/Ridge42) · [LinkedIn](www.linkedin.com/in/ridge-atwood)
