@@ -30,7 +30,7 @@ From March 2022 to March 2024, I served as a full-time representative in Newport
 
 During this time, I led teams, organized events, and worked with people from a wide variety of backgrounds.
 
-Although this wasn't a technical role, it taught me skills that I now value just as much as technical knowledge: **communication, leadership, organization, and working with people to accomplish a goal.**
+Although this wasn't a technical role, it taught me skills that I now value just as much as technical knowledge: communication, leadership, organization, and working with people to accomplish a goal.
 
 ### 📚 2024 — Returned to BYU
 
@@ -46,31 +46,21 @@ Working with students taught me how to take technical concepts and explain them 
 
 ### 🔬 2026 — Research Assistant
 
-In January 2026, I began working as a research assistant at BYU studying **machine learning and information theory**.
+In January 2026, I began working as a research assistant at BYU studying machine learning and information theory.
 
 My research involves building and training neural networks in PyTorch and exploring concepts such as PCA, entropy, and information theory.
 
-This experience has given me a deeper interest in understanding not just whether a machine learning model works, but **why it works and what it has learned.**
-
-### 🎓 2026 — B.S. Statistics
+This experience has given me a deeper interest in understanding not just whether a machine learning model works, but why it works and what it has learned.
 
 ::: {.columns}
 
-::: {.column width="60%"}
+::: {.column width="65%"}
+
+### 🎓 2026 — B.S. Statistics
 
 In August 2026, I completed my **B.S. in Statistics with an emphasis in Data Science**.
 
 After returning to BYU in April 2024, I completed the remainder of my degree in approximately **2.5 years**.
-
-:::
-
-::: {.column width="40%"}
-
-![Graduation](images/graduation.jpg){fig-align="center" width="100%"}
-
-:::
-
-:::
 
 ### 🎓 Fall 2026 — M.S. Statistics
 
@@ -78,9 +68,19 @@ In Fall 2026, I'll begin my **Master's in Statistics at BYU**.
 
 I'm looking forward to continuing to develop my statistical and machine learning skills while exploring problems that connect theory with practical applications.
 
+:::
+
+::: {.column width="35%"}
+
+![Graduation](images/grad_photo.jpg){fig-align="center" width="100%"}
+
+:::
+
+:::
+
 ## What I'm Interested In
 
-I'm particularly interested in the intersection of **data science, machine learning, and business**.
+I'm particularly interested in the intersection of data science, machine learning, and business.
 
 I don't want to use machine learning simply because a problem can be solved with machine learning. I'm more interested in starting with a real problem and figuring out whether data, statistics, automation, or AI can actually make a meaningful difference.
 
@@ -96,15 +96,15 @@ Some areas I'm especially interested in include:
 
 ## What I'm Doing Now
 
-Right now, I'm focused on three things: **graduate study, machine learning research, and building practical data-driven projects.**
+Right now, I'm focused on three things: graduate study, machine learning research, and building practical data-driven projects.
 
 I'm beginning my **M.S. in Statistics at BYU**, where I'll continue developing my foundation in statistical modeling, machine learning, and data science.
 
-I'm also continuing my research in **machine learning and information theory**. My current work involves studying how neural networks learn and represent information, using concepts from information theory and tools such as PyTorch and PCA. I'm particularly interested in understanding what happens inside a model rather than treating it as a black box.
+I'm also continuing my research in machine learning and information theory. My current work involves studying how neural networks learn and represent information, using concepts from information theory and tools such as PyTorch and PCA. I'm particularly interested in understanding what happens inside a model rather than treating it as a black box.
 
-Outside of school and research, I'm building projects that explore how data and AI can solve practical problems. One project I'm currently developing investigates whether **AI agents can automate employee scheduling for businesses**, taking into account employee availability, preferences, and business constraints.
+Outside of school and research, I'm building projects that explore how data and AI can solve practical problems. One project I'm currently developing investigates whether AI agents can automate employee scheduling for businesses, taking into account employee availability, preferences, and business constraints.
 
-These experiences are helping me explore the kind of work I want to pursue long-term: **using statistics, machine learning, and technology to understand problems and build solutions that have a practical impact.**
+These experiences are helping me explore the kind of work I want to pursue long-term: using statistics, machine learning, and technology to understand problems and build solutions that have a practical impact.
 
 ## Outside of Data Science
 
@@ -112,23 +112,11 @@ When I'm not working with data, I'm usually doing something active or competitiv
 
 ### A Few Fun Facts
 
-::: {.columns}
+- 🦈 I've swum with whale sharks.
 
-::: {.column width="60%"}
+- 💎 I once hand-cut, ground, and polished a rock to make a piece of jewelry for my wife.
 
-- 🦈 I've **swum with whale sharks**.
-
-- 💎 I once **hand-cut, ground, and polished a rock to make a piece of jewelry for my wife**.
-
-:::
-
-::: {.column width="40%"}
-
-![Making jewelry](images/jewelry.jpg){fig-align="center" width="100%"}
-
-:::
-
-:::
+![Making jewelry](images/rock_cutting.jpeg){fig-align="center" width="60%"}
 
 ## Let's Connect
 

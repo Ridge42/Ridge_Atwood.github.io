@@ -105,118 +105,6 @@
     "text": "I’ve always been a pretty analytical person. One of my mom’s favorite childhood memories is how I would constantly ask her to go through math flashcards with me. As I got older, that interest in problem solving naturally led me toward computer science. With two brothers who studied computer science, I initially decided to follow a similar path and started college studying the same field.\nThat changed during a conversation with a family friend I met while playing pickleball. He worked in data science, and after talking with him about his work, I became interested in the combination of mathematics, programming, and problem solving that the field offered. I ended up shadowing him and got a better look at how data could be used to approach real-world problems from different angles.\nThat combination clicked with me. I realized I didn’t have to choose between the parts of programming and mathematics that I enjoyed—I could bring them together to solve problems, find patterns, and develop data-driven solutions.\nThat led me to switch my focus to Statistics with an emphasis in Data Science at BYU. Since then, I’ve explored data science through coursework, projects, research, and professional experience, and I’ve become especially interested in using data and technology to solve practical problems."
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi! My name is Ridge Atwood, and I am currently a junior at Brigham Young University majoring in Statistics with an emphasis in Data Science. I plan to enter the BYU Master’s Program in Data Science in Fall 2026.\nMy passion for data science comes from my love of problem solving, working with data to uncover insights, and an early interest in computer science. A mentor introduced me to data science as the perfect combination of both fields, and I’ve been excited about it ever since."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\n\nStatistics: Emphasis in Data Science - Brigham Young University, 2026 Begin M.S. in Statistics Fall 2026\nRelevant Coursework: Statistical Inference, Data Wrangling, Machine Learning, Programming in Python and R, Database Systems"
-  },
-  {
-    "objectID": "about.html#skills-experience",
-    "href": "about.html#skills-experience",
-    "title": "About Me",
-    "section": "Skills & Experience",
-    "text": "Skills & Experience\n\nTechnical Skills\n\nProgramming: Python\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn, PyTorch\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nExperience\nResearch Assistant - Manual Dropout in Neural Networks - Study PyTorch fundamentals, PCA, Information Theory, and Entropy - Build and train machine learning models in PyTorch Teaching Assistant – Intro to Data Analysis - Explained statistical concepts clearly to students - Helped students with coding and data interpretation Volunteer Leadership – Mission in Newport Beach, CA - Led teams and coordinated large-scale operations - Developed communication, organization, and mentorship skills Junior Programmer – PAIC Solar - Built dashboards and worked with SQL to analyze operational data - Collaborated with team members to improve internal tools"
-  },
-  {
-    "objectID": "about.html#get-to-know-me",
-    "href": "about.html#get-to-know-me",
-    "title": "About Me",
-    "section": "Get to Know Me",
-    "text": "Get to Know Me\n\nHobbies: Reading fantasy novels, pickleball, spikeball, and volleyball\nRandom Fact: I’ve gone swimming with whale sharks before."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About Me",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: atwoodridge@gmail.com\nGitHub: github.com/Ridge42\nLinkedIn: linkedin.com/in/ridge-atwood"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "",
-    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science, with a particular interest in using statistics, machine learning, and technology to help organizations make better decisions.\nI’m currently completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026.\n\n\n\n\n\nRidge Atwood"
-  },
-  {
-    "objectID": "index.html#about-this-portfolio",
-    "href": "index.html#about-this-portfolio",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
-  },
-  {
-    "objectID": "index.html#skills-im-learning",
-    "href": "index.html#skills-im-learning",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
-  },
-  {
-    "objectID": "index.html#my-projects",
-    "href": "index.html#my-projects",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "This project explored whether we can accurately predict if a user will like a movie by combining engineered recommendation features with learned representations from a Two Towers model. I implemented and compared logistic regression, KNN, and a neural network with user/movie embeddings, while designing a leakage-free validation pipeline and tuning models using F1 score evaluation.\nThe results showed that the neural network substantially outperformed the baseline methods (F1 = 0.897), demonstrating that learned embeddings and affinity representations capture meaningful nonlinear relationships in user preferences and significantly improve recommendation performance.\nCheck the github for the code and you can look at this page for a more detailed explanation of the project. Github Link\n\n\n\nFor this case competition, we were tasked to discover what districts in NY had the most rat complaints, most “actual” cases of rats, and factors that contributed to rats appearing in the districts. We were also tasked with coming up with ideas for solutions for the rat problems given our findings.\nWe made heat maps with areal data, made a linear regression and random forest model, and visualization tools to showcase our findings.\nHere is a link to the google slides we made for a quick look at our findings. Slides —\n\n\n\n\n\n\nI also have a blog page where I wrote a basic report about the difference between seaborn and matplotlib libraries Thanks for visiting! Feel free to explore my projects and see what I’m learning."
-  },
-  {
-    "objectID": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
-    "href": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "",
-    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science, with a particular interest in using statistics, machine learning, and technology to help organizations make better decisions.\nI’m currently completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Projects",
-    "text": "Projects\n\n🎬 Movie Recommendation System\nI built a movie recommendation system with a team of 2 others to predict whether a user would like a movie. We compared traditional machine learning methods such as logistic regression and KNN with a neural network using user and movie embeddings.\nThe neural network achieved an F1 score of 0.897, substantially outperforming the baseline models.\nTools: Python · pandas · scikit-learn · PyTorch\nView Project →\n\n\n\n🐀 New York Rat Case Competition\n2nd Place — Case Competition\nAnalyzed reported rat complaints in New York City to determine where rat problems were concentrated, what factors were associated with rat activity, and how the city could address the problem.\nOur team used geographic analysis, data visualization, linear regression, and random forest modeling to turn the data into actionable recommendations.\nTools: R · tidyverse · sf · leaflet · dbscan · glmnet · ggplot2\nView Project →"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Skills",
-    "text": "Skills\n\nProgramming & Data Science\n\nPython\nR\nSQL\npandas\nNumPy\nscikit-learn\nPyTorch\nExcel\n\n\n\nMachine Learning & Statistics\n\nRegression\nClassification\nRandom Forests\nNeural Networks\nPCA\nFeature Engineering\nData Preprocessing\nStatistical Analysis\nInformation Theory\n\n\n\nTools & Workflow\n\nGit\nJupyter\nVS Code\nAPIs\nData Visualization\nQuarto"
-  },
-  {
-    "objectID": "index.html#personally-interested-in",
-    "href": "index.html#personally-interested-in",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Personally Interested In",
-    "text": "Personally Interested In\nI’m particularly interested in the intersection of data science, machine learning, and business.\nI’m interested in problems such as:\n\nUsing data to improve business decisions\nUnderstanding customer behavior\nFinding inefficiencies in business processes\nPredicting outcomes and identifying trends\nAutomating repetitive work\nBuilding AI systems that solve practical problems\nUsing statistics and machine learning to turn data into useful insights\n\nI’m especially interested in opportunities where I can work with real data and see how my analysis can have a measurable impact."
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m currently interested in opportunities in data science, analytics, machine learning, and business-focused problem solving.\nEmail: atwoodridge@gmail.com\nLocation: Provo, Utah\nGitHub · LinkedIn"
-  },
-  {
-    "objectID": "index.html#medline-data-analysis",
-    "href": "index.html#medline-data-analysis",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Medline Data Analysis",
-    "text": "Medline Data Analysis\nDeveloped a predictive analytics approach to identify when competitor products were likely to go on backorder, giving Medline an opportunity to proactively capture market share.\nUsing historical inventory, sales, fulfillment, and competitor backorder data, I combined exploratory data analysis, event studies, statistical modeling, and machine learning to identify early-warning signals of competitor supply disruptions.\nA Lasso logistic regression model achieved an AUC of ~0.82, with recent customer-level backorders and service-line fulfillment issues emerging as some of the strongest predictors of future competitor backorders.\nThe analysis translated these findings into actionable recommendations for Medline’s sales and supply-chain teams, including how to monitor early-warning signals and proactively position inventory and substitute products.\nThis project gave me experience taking a real business problem from raw data → predictive modeling → actionable business strategy.\nView Project →\nTools: Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · XGBoost\n\n\n🤖 Employee Scheduling Automation\nIn Progress\nExploring how AI agents could help businesses automate employee scheduling by considering employee availability, preferences, and business requirements.\nI’m approaching this project from a business-problem-first perspective: understanding the current scheduling process, identifying where businesses lose time or money, and determining whether AI can provide meaningful value.\nTools: Python · AI Agents · Optimization · Automation · APIs\n\n\n\n🔬 Neural Network & Information Theory Research\nAs a research assistant at BYU, I study machine learning, information theory, entropy, and neural networks.\nMy current research involves using information-theoretic methods to study representations learned by neural networks and investigate ways to improve how models distribute and use information. One goal of my research is to replace the current dropout method used by neural networks with a “pin-pointed” dropout method to improve accuracy and reduce training time.\nTools: Python · PyTorch · PCA · Information Theory\nView Project →"
-  },
-  {
-    "objectID": "index.html#tools-python-ai-agents-optimization-automation-apis",
-    "href": "index.html#tools-python-ai-agents-optimization-automation-apis",
-    "title": "Ridge Atwood | Data Science Portfolio",
-    "section": "Tools: Python · AI Agents · Optimization · Automation · APIs",
-    "text": "Tools: Python · AI Agents · Optimization · Automation · APIs\n\n🔬 Neural Network & Information Theory Research\nAs a research assistant at BYU, I study machine learning, information theory, entropy, and neural networks.\nMy current research involves using information-theoretic methods to study representations learned by neural networks and investigate ways to improve how models distribute and use information. One goal of my research is to replace the current dropout method used by neural networks with a “pin-pointed” dropout method to improve accuracy and reduce training time.\nTools: Python · PyTorch · PCA · Information Theory\nView Project →"
-  },
-  {
     "objectID": "about.html#how-i-found-data-science",
     "href": "about.html#how-i-found-data-science",
     "title": "About Me",
@@ -228,7 +116,7 @@
     "href": "about.html#my-journey",
     "title": "About Me",
     "section": "My Journey",
-    "text": "My Journey\n\n📚 2021 — Started at BYU\nI began studying Statistics at Brigham Young University in September 2021.\n\n\n💻 2022 — Junior Programmer, PAIC Solar\nMy first professional programming experience was at PAIC Solar, where I worked on automating business processes and improving internal tools.\nThis experience helped me see how programming and technology could be used to solve problems that businesses deal with every day.\n\n\n🌎 2022–2024 — Volunteer Representative\nFrom March 2022 to March 2024, I served as a full-time representative in Newport Beach, California.\nDuring this time, I led teams, organized events, and worked with people from a wide variety of backgrounds.\nAlthough this wasn’t a technical role, it taught me skills that I now value just as much as technical knowledge: communication, leadership, organization, and working with people to accomplish a goal.\n\n\n📚 2024 — Returned to BYU\nI returned to BYU in April 2024 to continue my Statistics degree, this time with an emphasis in Data Science.\nSince returning, I’ve focused on statistical analysis, machine learning, programming, and data science through coursework, research, and projects.\n\n\n👨‍🏫 2025–2026 — Teaching Assistant\nI worked as a Teaching Assistant for introductory statistics at BYU, helping students understand statistical concepts, work through coursework, and develop their data analysis skills.\nWorking with students taught me how to take technical concepts and explain them in a way that makes sense to people with different levels of experience. It also strengthened my communication and problem-solving skills—both of which I find valuable when working with data and collaborating with others.\n\n\n🔬 2026 — Research Assistant\nIn January 2026, I began working as a research assistant at BYU studying machine learning and information theory.\nMy research involves building and training neural networks in PyTorch and exploring concepts such as PCA, entropy, and information theory.\nThis experience has given me a deeper interest in understanding not just whether a machine learning model works, but why it works and what it has learned.\n\n\n🎓 2026 — B.S. Statistics\n\n\nIn August 2026, I completed my B.S. in Statistics with an emphasis in Data Science.\nAfter returning to BYU in April 2024, I completed the remainder of my degree in approximately 2.5 years.\n\n\n\n\nGraduation\n\n\n\n\n\n\n🎓 Fall 2026 — M.S. Statistics\nIn Fall 2026, I’ll begin my Master’s in Statistics at BYU.\nI’m looking forward to continuing to develop my statistical and machine learning skills while exploring problems that connect theory with practical applications."
+    "text": "My Journey\n\n📚 2021 — Started at BYU\nI began studying Statistics at Brigham Young University in September 2021.\n\n\n💻 2022 — Junior Programmer, PAIC Solar\nMy first professional programming experience was at PAIC Solar, where I worked on automating business processes and improving internal tools.\nThis experience helped me see how programming and technology could be used to solve problems that businesses deal with every day.\n\n\n🌎 2022–2024 — Volunteer Representative\nFrom March 2022 to March 2024, I served as a full-time representative in Newport Beach, California.\nDuring this time, I led teams, organized events, and worked with people from a wide variety of backgrounds.\nAlthough this wasn’t a technical role, it taught me skills that I now value just as much as technical knowledge: communication, leadership, organization, and working with people to accomplish a goal.\n\n\n📚 2024 — Returned to BYU\nI returned to BYU in April 2024 to continue my Statistics degree, this time with an emphasis in Data Science.\nSince returning, I’ve focused on statistical analysis, machine learning, programming, and data science through coursework, research, and projects.\n\n\n👨‍🏫 2025–2026 — Teaching Assistant\nI worked as a Teaching Assistant for introductory statistics at BYU, helping students understand statistical concepts, work through coursework, and develop their data analysis skills.\nWorking with students taught me how to take technical concepts and explain them in a way that makes sense to people with different levels of experience. It also strengthened my communication and problem-solving skills—both of which I find valuable when working with data and collaborating with others.\n\n\n🔬 2026 — Research Assistant\nIn January 2026, I began working as a research assistant at BYU studying machine learning and information theory.\nMy research involves building and training neural networks in PyTorch and exploring concepts such as PCA, entropy, and information theory.\nThis experience has given me a deeper interest in understanding not just whether a machine learning model works, but why it works and what it has learned.\n\n\n\n\n🎓 2026 — B.S. Statistics\nIn August 2026, I completed my B.S. in Statistics with an emphasis in Data Science.\nAfter returning to BYU in April 2024, I completed the remainder of my degree in approximately 2.5 years.\n\n\n🎓 Fall 2026 — M.S. Statistics\nIn Fall 2026, I’ll begin my Master’s in Statistics at BYU.\nI’m looking forward to continuing to develop my statistical and machine learning skills while exploring problems that connect theory with practical applications.\n\n\n\n\n\nGraduation"
   },
   {
     "objectID": "about.html#what-im-interested-in",
@@ -249,7 +137,7 @@
     "href": "about.html#outside-of-data-science",
     "title": "About Me",
     "section": "Outside of Data Science",
-    "text": "Outside of Data Science\nWhen I’m not working with data, I’m usually doing something active or competitive. I enjoy volleyball, pickleball, rock climbing, and pretty much any game where I can compete with friends. I’m also a big fan of fantasy novels and survival video games.\n\nA Few Fun Facts\n\n\n\n🦈 I’ve swum with whale sharks.\n💎 I once hand-cut, ground, and polished a rock to make a piece of jewelry for my wife.\n\n\n\n\n\nMaking jewelry"
+    "text": "Outside of Data Science\nWhen I’m not working with data, I’m usually doing something active or competitive. I enjoy volleyball, pickleball, rock climbing, and pretty much any game where I can compete with friends. I’m also a big fan of fantasy novels and survival video games.\n\nA Few Fun Facts\n\n🦈 I’ve swum with whale sharks.\n💎 I once hand-cut, ground, and polished a rock to make a piece of jewelry for my wife.\n\n\n\n\nMaking jewelry"
   },
   {
     "objectID": "about.html#lets-connect",
@@ -257,5 +145,40 @@
     "title": "About Me",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nI’d love to connect with other people interested in data science, machine learning, statistics, or using technology to solve interesting problems.\nEmail: atwoodridge@gmail.com\nGitHub: github.com/Ridge42\nLinkedIn: linkedin.com/in/ridge-atwood"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "",
+    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science. I’m particularly interested in the intersection of data science, machine learning, AI, and business.\nI enjoy working on problems where data and technology can improve decisions, predict outcomes, identify inefficiencies, or automate useful processes.\nI’m completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026.\n\n\n\nBusiness & Data Science\nUsing data to improve decisions and identify opportunities.\nMachine Learning\nBuilding models that predict outcomes and uncover patterns.\nAI & Automation\nDeveloping systems that automate useful real-world tasks.\nDeep Learning\nBuilding and understanding neural networks and improving how they learn.\nApplied Research\nTurning statistical and machine learning research into practical improvements.\n\n\n\n\n\n\n\nRidge Atwood"
+  },
+  {
+    "objectID": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
+    "href": "index.html#i-turn-data-into-insights-models-and-solutions-for-real-world-problems.",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "",
+    "text": "I’m a Statistics student at Brigham Young University specializing in Data Science. I’m particularly interested in the intersection of data science, machine learning, AI, and business.\nI enjoy working on problems where data and technology can improve decisions, predict outcomes, identify inefficiencies, or automate useful processes.\nI’m completing my B.S. in Statistics and will begin a Master’s in Statistics at BYU in Fall 2026.\n\n\n\nBusiness & Data Science\nUsing data to improve decisions and identify opportunities.\nMachine Learning\nBuilding models that predict outcomes and uncover patterns.\nAI & Automation\nDeveloping systems that automate useful real-world tasks.\nDeep Learning\nBuilding and understanding neural networks and improving how they learn.\nApplied Research\nTurning statistical and machine learning research into practical improvements."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n📦 Medline — Predicting Competitor Backorders\nPredictive Analytics · Business Strategy\nBuilt a predictive analytics approach to identify when competitor products were likely to go on backorder.\nCombined inventory, sales, fulfillment, and backorder data using EDA, event studies, feature engineering, and machine learning.\nA Lasso logistic regression model achieved an AUC of ~0.82, identifying customer-level fulfillment problems as important early-warning signals.\nThe analysis was translated into strategies Medline could use to proactively position inventory and capture market share.\nTools: Python · pandas · NumPy · scikit-learn · XGBoost\nView Project →\n\n\n\n🤖 Employee Scheduling Automation\nIn Progress · AI Agents · Business Automation\nExploring how AI agents could automate employee scheduling by balancing employee availability, preferences, and business requirements.\nThe project focuses on identifying the business problem and potential ROI first, then determining where AI and optimization can provide meaningful value.\nTools: Python · AI Agents · Optimization · APIs\n\n\n\n🎬 Movie Recommendation System\nMachine Learning · Neural Networks\nBuilt a movie recommendation system with a team of three to predict whether users would like movies.\nCompared logistic regression and KNN against a neural network using user and movie embeddings.\nThe neural network achieved an F1 score of 0.897, substantially outperforming the baseline models.\nTools: Python · pandas · scikit-learn · PyTorch\nView Project →\n\n\n\n🔬 Neural Network Research — Targeted Dropout\nResearch Assistant · BYU\nDeveloping a new approach to neural network regularization that uses information theory to identify which parts of a neural network should be perturbed, rather than randomly dropping neurons like standard dropout.\nI build and train neural networks in PyTorch and use information-theoretic methods to identify important factors in learned representations. I then selectively perturb those factors and evaluate how the changes affect model performance.\nUsing the CIFAR-10 dataset, my current approach is achieving higher accuracy and a shorter traing time than standard dropout, suggesting that targeted perturbation can be more effective than randomly removing information from the network.\nThis research has given me hands-on experience with deep learning, neural network architectures, PyTorch, representation learning, information theory, experimental design, and large-scale model evaluation.\nTools: Python · PyTorch · CIFAR-10 · PCA · Information Theory · TensorBoard\nView Research →\n\n\n\n🐀 New York Rat Case Competition\n2nd Place — Case Competition\nAnalyzed New York City rat complaints to identify where rat activity was concentrated, what factors were associated with complaints, and how the city could respond.\nUsed geographic analysis, visualization, regression, and random forest modeling to turn the data into actionable recommendations.\nTools: R · tidyverse · sf · leaflet · dbscan · glmnet · ggplot2\nView Project →"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Skills",
+    "text": "Skills\nClick a category to see the tools and examples of where I’ve applied them.\n\n\nProgramming & Data Science\n\n\n\n\nSkill\nExample\n\n\n\n\nPython\nMedline · Neural Network Research\n\n\nR\nNYC Rat Case Competition\n\n\nSQL\nData querying and analysis\n\n\npandas\nMedline\n\n\nNumPy\nMedline\n\n\nExcel\nData analysis and business analysis\n\n\n\n\n\n\nMachine Learning & Statistics\n\n\n\n\nSkill\nExample\n\n\n\n\nRegression\nMedline · NYC Rat Case Competition\n\n\nClassification\nMedline\n\n\nRandom Forests\nNYC Rat Case Competition\n\n\nNeural Networks\nMovie Recommendation System · Research\n\n\nPyTorch\nMovie Recommendation System · Research\n\n\nPCA\nNeural Network Research\n\n\nFeature Engineering\nMedline\n\n\nInformation Theory\nNeural Network Research\n\n\nStatistical Analysis\nMedline · NYC Rat Case Competition\n\n\n\n\n\n\nData Visualization & Analysis\n\n\n\n\nSkill\nExample\n\n\n\n\nMatplotlib\nMedline\n\n\nSeaborn\nMedline\n\n\nggplot2\nNYC Rat Case Competition\n\n\nLeaflet\nNYC Rat Case Competition\n\n\nData Visualization\nNYC Rat Case Competition · Medline\n\n\n\n\n\n\nTools & Workflow\n\n\n\n\nSkill\nExample\n\n\n\n\nGit / GitHub\nGitHub Profile\n\n\nJupyter Notebooks\nMedline\n\n\nVS Code\nDevelopment environment\n\n\nAPIs\nData extraction and analysis\n\n\nQuarto\nThis portfolio"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Ridge Atwood | Data Science Portfolio",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\n\nI’m interested in opportunities in data science, analytics, machine learning, and business-focused problem solving.\nEmail: atwoodridge@gmail.com\nLocation: Provo, Utah\nGitHub · LinkedIn"
   }
 ]

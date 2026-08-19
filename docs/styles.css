@@ -1,18 +1,52 @@
-/* Custom CSS for the portfolio site */
+/* =========================================================
+   Ridge Atwood — Data Science Portfolio
+   ========================================================= */
 
-/* Color scheme - customize these to match your preferences */
+/* ---------------------------------------------------------
+   Color Scheme
+   --------------------------------------------------------- */
+
 :root {
-  --primary-color: #2E86AB;
-  --secondary-color: #A23B72;
-  --accent-color: #F18F01;
-  --text-color: #333;
-  --light-gray: #f8f9fa;
-  --border-color: #dee2e6;
+  --primary-color: #2563eb;
+  --primary-dark: #1d4ed8;
+  --primary-light: #eff6ff;
+
+  --text-color: #1f2937;
+  --muted-text: #64748b;
+
+  --light-gray: #f8fafc;
+  --border-color: #e2e8f0;
+  --white: #ffffff;
 }
 
-/* Navigation customizations */
+
+/* ---------------------------------------------------------
+   General
+   --------------------------------------------------------- */
+
+body {
+  color: var(--text-color);
+  line-height: 1.65;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--primary-dark);
+  text-decoration: underline;
+}
+
+
+/* ---------------------------------------------------------
+   Navigation
+   --------------------------------------------------------- */
+
 .navbar-brand {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 1.2rem;
 }
 
@@ -20,59 +54,230 @@
   font-weight: 500;
 }
 
-/* Homepage customizations */
+.navbar-nav .nav-link:hover {
+  color: var(--primary-color);
+}
+
+
+/* ---------------------------------------------------------
+   Main Headings
+   --------------------------------------------------------- */
+
+h1 {
+  color: var(--primary-dark);
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 0.4rem;
+}
+
+h3 {
+  color: var(--primary-dark);
+  font-weight: 650;
+  margin-top: 2rem;
+}
+
+h4 {
+  color: var(--primary-dark);
+}
+
+
+/* ---------------------------------------------------------
+   Hero / Introduction
+   --------------------------------------------------------- */
+
 .hero-section {
   padding: 3rem 0;
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--primary-color) 0%,
+    var(--primary-dark) 100%
+  );
   color: white;
   margin-bottom: 2rem;
 }
 
-/* Project cards */
+.hero-section h1,
+.hero-section h2,
+.hero-section h3 {
+  color: white;
+}
+
+
+/* ---------------------------------------------------------
+   Personal Interests Box
+   --------------------------------------------------------- */
+
+.interest-box {
+  background-color: var(--primary-light);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-top: 1rem;
+}
+
+.interest-box strong {
+  color: var(--primary-dark);
+}
+
+
+/* ---------------------------------------------------------
+   Project Sections
+   --------------------------------------------------------- */
+
 .project-card {
   border: 1px solid var(--border-color);
   border-radius: 8px;
   padding: 1.5rem;
   margin-bottom: 1.5rem;
-  transition: box-shadow 0.3s ease;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .project-card:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+  transform: translateY(-2px);
 }
 
 .project-card h3 {
-  color: var(--primary-color);
-  margin-bottom: 1rem;
+  color: var(--primary-dark);
+  margin-bottom: 0.75rem;
 }
 
-/* Skills section */
+
+/* ---------------------------------------------------------
+   Project Results / Metrics
+   --------------------------------------------------------- */
+
+.result {
+  color: var(--primary-dark);
+  font-weight: 700;
+}
+
+
+/* ---------------------------------------------------------
+   Project Tools
+   --------------------------------------------------------- */
+
+.tools {
+  color: var(--muted-text);
+  font-size: 0.95rem;
+}
+
+
+/* ---------------------------------------------------------
+   Skills — Collapsible Sections
+   --------------------------------------------------------- */
+
+details {
+  margin: 1rem 0;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--white);
+  overflow: hidden;
+}
+
+details summary {
+  cursor: pointer;
+  padding: 1rem 1.25rem;
+  color: var(--primary-dark);
+  background-color: var(--primary-light);
+  font-size: 1.05rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+
+details summary:hover {
+  background-color: #dbeafe;
+}
+
+details[open] summary {
+  border-bottom: 1px solid var(--border-color);
+}
+
+
+/* Skills tables */
+
+details table {
+  margin: 0;
+  width: 100%;
+}
+
+details th {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+details td,
+details th {
+  padding: 0.65rem 0.8rem;
+}
+
+
+/* ---------------------------------------------------------
+   Skills Grid
+   --------------------------------------------------------- */
+
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(220px, 1fr)
+  );
   gap: 1rem;
   margin: 2rem 0;
 }
 
 .skill-category {
-  background: var(--light-gray);
+  background-color: var(--light-gray);
   padding: 1rem;
   border-radius: 8px;
   border-left: 4px solid var(--primary-color);
 }
 
 .skill-category h4 {
-  color: var(--primary-color);
+  color: var(--primary-dark);
   margin-bottom: 0.5rem;
 }
 
-/* Code blocks */
+
+/* ---------------------------------------------------------
+   Let's Connect
+   --------------------------------------------------------- */
+
+.connect-box {
+  background-color: var(--primary-light);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.connect-box a {
+  font-weight: 600;
+}
+
+
+/* ---------------------------------------------------------
+   Code Blocks
+   --------------------------------------------------------- */
+
 .sourceCode {
   border-radius: 6px;
   border: 1px solid var(--border-color);
 }
 
-/* Figures and plots */
+
+/* ---------------------------------------------------------
+   Figures and Plots
+   --------------------------------------------------------- */
+
 .figure {
   text-align: center;
   margin: 2rem 0;
@@ -82,16 +287,20 @@
   max-width: 100%;
   height: auto;
   border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.08);
 }
 
 .figure-caption {
   font-style: italic;
-  color: #666;
+  color: var(--muted-text);
   margin-top: 0.5rem;
 }
 
-/* Tables */
+
+/* ---------------------------------------------------------
+   Tables
+   --------------------------------------------------------- */
+
 .table {
   margin: 1.5rem 0;
 }
@@ -102,49 +311,83 @@
   border: none;
 }
 
-/* Callout boxes */
+
+/* ---------------------------------------------------------
+   Callout Boxes
+   --------------------------------------------------------- */
+
 .callout {
   margin: 1.5rem 0;
   padding: 1rem;
   border-radius: 6px;
-  border-left: 4px solid var(--accent-color);
-  background-color: var(--light-gray);
+  border-left: 4px solid var(--primary-color);
+  background-color: var(--primary-light);
 }
 
 .callout-title {
   font-weight: bold;
-  color: var(--accent-color);
+  color: var(--primary-dark);
   margin-bottom: 0.5rem;
 }
 
-/* Footer */
+
+/* ---------------------------------------------------------
+   Footer
+   --------------------------------------------------------- */
+
 .footer {
   margin-top: 3rem;
   padding: 2rem 0;
   border-top: 1px solid var(--border-color);
   text-align: center;
-  color: #666;
+  color: var(--muted-text);
 }
 
-/* Responsive adjustments */
+
+/* ---------------------------------------------------------
+   Responsive Design
+   --------------------------------------------------------- */
+
 @media (max-width: 768px) {
+
   .hero-section {
     padding: 2rem 0;
   }
-  
+
   .skills-grid {
     grid-template-columns: 1fr;
   }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  .interest-box,
+  .connect-box {
+    padding: 1rem;
+  }
+
 }
 
-/* Print styles */
+
+/* ---------------------------------------------------------
+   Print Styles
+   --------------------------------------------------------- */
+
 @media print {
-  .navbar, .footer {
+
+  .navbar,
+  .footer {
     display: none;
   }
-  
+
   .main-content {
     margin: 0;
     padding: 0;
   }
+
 }
