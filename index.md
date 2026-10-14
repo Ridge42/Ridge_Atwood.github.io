@@ -8,11 +8,11 @@ css: styles.css
 ::: {.column width="65%"}
 ## I turn data into insights, models, and solutions for real-world problems.
 
-I'm a Statistics student at **Brigham Young University** specializing in Data Science. I'm particularly interested in the intersection of **data science, machine learning, AI, and business**.
+I'm a Statistics student at **Brigham Young University** specializing in Data Science. I'm particularly interested in the intersection of data science, machine learning, AI, and business.
 
-I enjoy working on problems where data and technology can **improve decisions, predict outcomes, identify inefficiencies, or automate useful processes**.
+I enjoy working on problems where data and technology can improve decisions, predict outcomes, identify inefficiencies, or automate useful processes.
 
-I'm completing my B.S. in Statistics and will begin a **Master's in Statistics at BYU in Fall 2026**.
+I've completed my Bachelor's and have started my **Master's in Statistics at BYU in Fall 2026**.
 
 ### What I'm Interested In
 
@@ -50,9 +50,9 @@ Turning statistical and machine learning research into practical improvements.
 
 Built a predictive analytics approach to identify when competitor products were likely to go on backorder.
 
-Combined inventory, sales, fulfillment, and backorder data using **EDA, event studies, feature engineering, and machine learning**.
+Combined inventory, sales, fulfillment, and backorder data using EDA, event studies, feature engineering, and machine learning.
 
-A Lasso logistic regression model achieved an <span class="result">**AUC of ~0.82**</span>, identifying customer-level fulfillment problems as important early-warning signals.
+A Lasso logistic regression model achieved an <span class="result">AUC of ~0.82</span>, identifying customer-level fulfillment problems as important early-warning signals.
 
 The analysis was translated into strategies Medline could use to proactively position inventory and capture market share.
 
@@ -68,7 +68,7 @@ The analysis was translated into strategies Medline could use to proactively pos
 
 Exploring how AI agents could automate employee scheduling by balancing employee availability, preferences, and business requirements.
 
-The project focuses on identifying the **business problem and potential ROI first**, then determining where AI and optimization can provide meaningful value.
+The project focuses on identifying the business problem and potential ROI first, then determining where AI and optimization can provide meaningful value.
 
 **Tools:** Python · AI Agents · Optimization · APIs
 
@@ -80,9 +80,9 @@ The project focuses on identifying the **business problem and potential ROI firs
 
 Built a movie recommendation system with a team of three to predict whether users would like movies.
 
-Compared logistic regression and KNN against a neural network using **user and movie embeddings**.
+Compared logistic regression and KNN against a neural network using user and movie embeddings.
 
-The neural network achieved an <span class="result">**F1 score of 0.897**</span>, substantially outperforming the baseline models.
+The neural network achieved an <span class="result">F1 score of 0.897</span>, substantially outperforming the baseline models.
 
 **Tools:** Python · pandas · scikit-learn · PyTorch
 
@@ -94,13 +94,13 @@ The neural network achieved an <span class="result">**F1 score of 0.897**</span>
 
 **Research Assistant · BYU**
 
-Developing a new approach to neural network regularization that uses **information theory to identify which parts of a neural network should be perturbed**, rather than randomly dropping neurons like standard dropout.
+Developing a new approach to neural network regularization that uses information theory to identify which parts of a neural network should be perturbed, rather than randomly dropping neurons like standard dropout.
 
 I build and train neural networks in **PyTorch** and use information-theoretic methods to identify important factors in learned representations. I then selectively perturb those factors and evaluate how the changes affect model performance.
 
-Using the **CIFAR-10** dataset, my current approach is achieving **higher accuracy** and a **shorter traing time** than standard dropout, suggesting that targeted perturbation can be more effective than randomly removing information from the network.
+Using the CIFAR-10 dataset, my current approach is achieving higher accuracy and a shorter traing time than standard dropout, suggesting that targeted perturbation can be more effective than randomly removing information from the network.
 
-This research has given me hands-on experience with **deep learning, neural network architectures, PyTorch, representation learning, information theory, experimental design, and large-scale model evaluation**.
+This research has given me hands-on experience with deep learning, neural network architectures, PyTorch, representation learning, information theory, experimental design, and large-scale model evaluation.
 
 **Tools:** Python · PyTorch · CIFAR-10 · PCA · Information Theory · TensorBoard
 
@@ -188,7 +188,7 @@ Click a category to see the tools and examples of where I've applied them.
 ## Let's Connect
 
 ::: {.connect-box}
-I'm interested in opportunities in **data science, analytics, machine learning, and business-focused problem solving**.
+I'm interested in opportunities in data science, analytics, machine learning, and business-focused problem solving.
 
 **Email:** [atwoodridge@gmail.com](mailto:atwoodridge@gmail.com)  
 **Location:** Provo, Utah  

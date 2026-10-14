@@ -6,7 +6,7 @@ title: "About Me"
 
 I've always been a pretty analytical person. One of my mom's favorite childhood memories is how I would constantly ask her to go through math flashcards with me. As I got older, that interest in problem solving naturally led me toward computer science. With two brothers who studied computer science, I initially decided to follow a similar path and started college studying the same field.
 
-That changed during a conversation with a family friend I met while playing pickleball. He worked in data science, and after talking with him about his work, I became interested in the combination of **mathematics, programming, and problem solving** that the field offered. I ended up shadowing him and got a better look at how data could be used to approach real-world problems from different angles.
+That changed during a conversation with a family friend I met while playing pickleball. He worked in data science, and after talking with him about his work, I became interested in the combination of mathematics, programming, and problem solving that the field offered. I ended up shadowing him and got a better look at how data could be used to approach real-world problems from different angles.
 
 That combination clicked with me. I realized I didn't have to choose between the parts of programming and mathematics that I enjoyed—I could bring them together to solve problems, find patterns, and develop data-driven solutions.
 
