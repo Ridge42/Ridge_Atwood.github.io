@@ -40,7 +40,7 @@ Since returning, I've focused on statistical analysis, machine learning, program
 
 ### 👨‍🏫 2025–2026 — Teaching Assistant
 
-I worked as a **Teaching Assistant for introductory statistics at BYU**, helping students understand statistical concepts, work through coursework, and develop their data analysis skills.
+I worked as a Teaching Assistant for introductory statistics at BYU, helping students understand statistical concepts, work through coursework, and develop their data analysis skills.
 
 Working with students taught me how to take technical concepts and explain them in a way that makes sense to people with different levels of experience. It also strengthened my communication and problem-solving skills—both of which I find valuable when working with data and collaborating with others.
 

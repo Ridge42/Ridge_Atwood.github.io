@@ -92,13 +92,13 @@ The neural network achieved an <span class="result">F1 score of 0.897</span>, su
 
 ### 🔬 Neural Network Research — Targeted Dropout
 
-**Research Assistant · BYU**
+**Research Assistant · BYU · Neural Networks**
 
 Developing a new approach to neural network regularization that uses information theory to identify which parts of a neural network should be perturbed, rather than randomly dropping neurons like standard dropout.
 
-I build and train neural networks in **PyTorch** and use information-theoretic methods to identify important factors in learned representations. I then selectively perturb those factors and evaluate how the changes affect model performance.
+I build and train neural networks in PyTorch and use information-theoretic methods to identify important factors in learned representations. I then selectively perturb those factors and evaluate how the changes affect model performance.
 
-Using the CIFAR-10 dataset, my current approach is achieving higher accuracy and a shorter traing time than standard dropout, suggesting that targeted perturbation can be more effective than randomly removing information from the network.
+Using the CIFAR-10 dataset, my current approach is achieving higher accuracy and a shorter training time than standard dropout, suggesting that targeted perturbation can be more effective than randomly removing information from the network.
 
 This research has given me hands-on experience with deep learning, neural network architectures, PyTorch, representation learning, information theory, experimental design, and large-scale model evaluation.
 
